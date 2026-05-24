@@ -1,4 +1,4 @@
 streamlit
-numpy
-plotly
-scipy
+google-generativeai
+pillow
+pydantic
